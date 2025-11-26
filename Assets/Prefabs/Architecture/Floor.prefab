@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5176347238712313874}
   - component: {fileID: 9069715779340877316}
   - component: {fileID: 6799399975205246081}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Floor1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -117,7 +117,7 @@ GameObject:
   - component: {fileID: 3576769491784715370}
   - component: {fileID: 4356176630366206660}
   - component: {fileID: 2250010722050871365}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Floor2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -219,7 +219,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6788450629808301704}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
